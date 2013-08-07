@@ -56,7 +56,7 @@ Validation rules will be executed following this order.
 
 1. vFn (only evaluated if there is a value in the data object)
 2. regEx (only evaluated if there is a value in the data object)
-3. cFn (is allways evaluated)
+3. cFn (is always evaluated)
 
 
 ##Usage examples
